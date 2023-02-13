@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-nov-26 13:25" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Finestra" modelMemberId="Finestra" project="Giochino" xLocation="308" yLocation="814"/>
+        <class className="Movimento" modelMemberId="Movimento" project="Giochino" xLocation="2050" yLocation="915"/>
+        <class className="KeyHandler" modelMemberId="KeyHandler" project="Giochino" xLocation="1255" yLocation="242"/>
+        <class className="Personaggio" modelMemberId="Personaggio" project="Giochino" xLocation="1177" yLocation="980"/>
+        <class className="Window" modelMemberId="Window" project="Giochino" xLocation="2182" yLocation="28"/>
+        <class className="Mosse" modelMemberId="Mosse" project="Giochino" xLocation="719" yLocation="248"/>
+        <class className="Main" modelMemberId="Main" project="Giochino" xLocation="887" yLocation="2"/>
+    </diagram>
+</ajsv>
